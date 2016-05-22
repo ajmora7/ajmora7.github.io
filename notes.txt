@@ -1,0 +1,11 @@
+Personal Website Notes:
+- Multiple pages
+	- Index
+    	- Nav bar like in dash tutorial
+	- Resume
+		- Start with basic info
+    - Other pages as needed
+- Then add formatting via CSS
+- Then get crazy with divs
+- Then add Javascript
+- Put social media under picture on every webpage
