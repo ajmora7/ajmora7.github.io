@@ -9,3 +9,9 @@ Personal Website Notes:
 - Then get crazy with divs
 - Then add Javascript
 - Put social media under picture on every webpage
+
+Namecheap DNS Records
+- Type: URL Redirect Record
+- Host: @
+- Value: http://www.andrewjmora.xyz/ (Unmasked)
+- TTL: (blank)
