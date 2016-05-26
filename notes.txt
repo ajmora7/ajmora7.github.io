@@ -15,3 +15,8 @@ Namecheap DNS Records
 - Host: @
 - Value: http://www.andrewjmora.xyz/ (Unmasked)
 - TTL: (blank)
+
+- Type: CNAME Record
+- Host: www
+- Value: parking.namecheap.com
+- TTL: 30 min
