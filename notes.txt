@@ -4,6 +4,8 @@ Personal Website Notes:
     	- Nav bar like in dash tutorial
 	- Resume
 		- Start with basic info
+	- Projects/Portfolio
+		- Add in github link
     - Other pages as needed
 - Then add formatting via CSS
 - Then get crazy with divs
